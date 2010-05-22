@@ -6,7 +6,7 @@
 Welcome to kumofs's documentation!
 ==================================
 
-Contents:
+Contents: test
 
 .. toctree::
    :maxdepth: 2
